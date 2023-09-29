@@ -4,4 +4,8 @@ hello veraaaaa
 =======
 conflit
 
+<<<<<<< HEAD
 >>>>>>> 2e8215f7488d1414b1b6edb0ed2c63141778bae9
+=======
+C'est un conflit conflictuel ! :)
+>>>>>>> 325f51800f2c76e771c3fce72bebbf601aef9130
