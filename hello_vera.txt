@@ -1,2 +1,7 @@
 hello veraaaaa
+<<<<<<< HEAD
 hello veraaaaa
+=======
+conflit
+
+>>>>>>> 2e8215f7488d1414b1b6edb0ed2c63141778bae9
